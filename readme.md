@@ -4,7 +4,7 @@
 
 *Current version*: Argon v1.1.2. More info at https://www.creative-tim.com/product/argon-dashboard-laravel.
 
-[<img src="https://s3.amazonaws.com/creativetim_bucket/products/140/original/opt_ad_laravel_thumbnail.jpg" width="100%" />](https://www.creative-tim.com/live/argon-dashboard-laravel) 
+[<img src="https://s3.amazonaws.com/creativetim_bucket/products/140/original/opt_ad_laravel_thumbnail.jpg" width="100%" />](https://www.creative-tim.com/live/argon-dashboard-laravel-bs4) 
 
 ## Note
 
@@ -101,15 +101,15 @@ public function rules()
 
 | Login | Users Page |
 | --- | ---  |
-| [![Login](/screens/Login.png)](https://www.creative-tim.com/live/argon-dashboard-laravel)  | [![Users Page](/screens/Users.png)](https://www.creative-tim.com/live/argon-dashboard-laravel)
+| [![Login](/screens/Login.png)](https://www.creative-tim.com/live/argon-dashboard-laravel-bs4)  | [![Users Page](/screens/Users.png)](https://www.creative-tim.com/live/argon-dashboard-laravel-bs4)
 
 | Profile Page | Dashboard |
 | --- | --- |
-| [![Profile Page](/screens/Profile.png)](https://www.creative-tim.com/live/argon-dashboard-laravel)   | [![Dashboard](/screens/Dashboard.png)](https://www.creative-tim.com/live/argon-dashboard-laravel)
-[View More](https://www.creative-tim.com/live/argon-dashboard-laravel)
+| [![Profile Page](/screens/Profile.png)](https://www.creative-tim.com/live/argon-dashboard-laravel-bs4)   | [![Dashboard](/screens/Dashboard.png)](https://www.creative-tim.com/live/argon-dashboard-laravel-bs4)
+[View More](https://www.creative-tim.com/live/argon-dashboard-laravel-bs4)
 
 ## Documentation
-The documentation for the Material Dashboard Laravel is hosted at our [website](https://argon-dashboard-laravel.creative-tim.com/docs/getting-started/overview.html).
+The documentation for the Material Dashboard Laravel is hosted at our [website](https://argon-dashboard-laravel-bs4.creative-tim.com/docs/getting-started/overview.html).
 
 ## File Structure
 ```
@@ -839,12 +839,12 @@ At present, we officially aim to support the last two versions of the following 
 
 <img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64">
 
-- Demo: <https://argon-dashboard-laravel.creative-tim.com/?ref=mdlp-readme>
-- Download Page: <https://www.creative-tim.com/product/argon-dashboard-laravel?ref=mdl-readme>
-- Documentation: <https://argon-dashboard-laravel.creative-tim.com/docs/getting-started/overview.html>
+- Demo: <https://argon-dashboard-laravel-bs4.creative-tim.com/?ref=mdlp-readme>
+- Download Page: <https://www.creative-tim.com/product/argon-dashboard-laravel-bs4?ref=mdl-readme>
+- Documentation: <https://argon-dashboard-laravel-bs4.creative-tim.com/docs/getting-started/overview.html>
 - License Agreement: <https://www.creative-tim.com/license>
 - Support: <https://www.creative-tim.com/contact-us>
-- Issues: [Github Issues Page](https://github.com/laravel-frontend-presets/argon-dashboard/issues)
+- Issues: [Github Issues Page](https://github.com/laravel-frontend-presets/argon-dashboard-bs4/issues)
 
 ## Change log
 
