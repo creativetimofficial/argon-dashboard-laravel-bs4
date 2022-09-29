@@ -1,6 +1,6 @@
 # Argon Frontend Preset For Laravel Framework 9.x and Up
 
-![version](https://img.shields.io/badge/version-1.0.12-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/laravel-frontend-presets/argon.svg?maxAge=2592000)](https://github.com/laravel-frontend-presets/argon/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/laravel-frontend-presets/argon.svg?maxAge=2592000)](https://github.com/laravel-frontend-presets/argon/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-1.0.12-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/argon-dashboard-laravel-bs4.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-dashboard-laravel-bs4/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/argon-dashboard-laravel-bs4.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-dashboard-laravel-bs4/issues?q=is%3Aissue+is%3Aclosed)
 
 *Current version*: Argon v1.1.2. More info at https://www.creative-tim.com/product/argon-dashboard-laravel.
 
@@ -900,4 +900,4 @@ Updivision Blog: <https://updivision.com/blog/?ref=mdl-readme>
 
 ## License
 
-[MIT License](https://github.com/laravel-frontend-presets/argon/blob/master/license.md).
+[MIT License](https://github.com/creativetimofficial/argon-dashboard-laravel-bs4/blob/master/license.md).
